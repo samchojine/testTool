@@ -21,4 +21,7 @@ public class MptestTool: NSObject {
         print("这是添加 version")
     }
 
+    static func printlimi(){
+        print("这是添加 limit")
+    }
 }

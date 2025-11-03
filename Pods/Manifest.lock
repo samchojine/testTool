@@ -1,5 +1,5 @@
 PODS:
-  - testToolByHyun (0.0.2)
+  - testToolByHyun (0.0.3)
 
 DEPENDENCIES:
   - testToolByHyun
@@ -9,7 +9,7 @@ SPEC REPOS:
     - testToolByHyun
 
 SPEC CHECKSUMS:
-  testToolByHyun: b46673b6bb999a55a0cc9ed8466be9bb5a66c87f
+  testToolByHyun: d4a7c90809aabd34ebaf83e1ac69652721dfe0b9
 
 PODFILE CHECKSUM: 539724c02a22c6b07091c7835a727318076ac126
 

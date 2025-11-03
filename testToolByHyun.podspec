@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name = "testToolByHyun"
-  s.version = "0.0.3"
+  s.version = "0.0.4"
   s.summary = "test tool"
   s.description  = <<-DESC
                    一个工具舒, 用于用于用于用于测试开发使用,方便开发者的工作便利也方便大家使用
