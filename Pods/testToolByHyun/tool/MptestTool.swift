@@ -7,7 +7,7 @@
 
 import UIKit
 
-public class MptestTool: NSObject {
+class MptestTool: NSObject {
     
     static func printadd(){
         print("这是添加 add")

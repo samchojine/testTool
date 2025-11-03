@@ -1,0 +1,16 @@
+PODS:
+  - testToolByHyun (0.0.1)
+
+DEPENDENCIES:
+  - testToolByHyun
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - testToolByHyun
+
+SPEC CHECKSUMS:
+  testToolByHyun: f1d92569debafaa132765d69e9bf0f7576e0e56c
+
+PODFILE CHECKSUM: 539724c02a22c6b07091c7835a727318076ac126
+
+COCOAPODS: 1.16.2
