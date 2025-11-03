@@ -1,9 +1,12 @@
 
 
 Pod::Spec.new do |s|
-  s.name = "testTool"
+  s.name = "testToolByHyun"
   s.version = "0.0.1"
   s.summary = "test tool"
+  s.description  = <<-DESC
+                   一个工具舒, 用于用于用于用于测试开发使用,方便开发者的工作便利也方便大家使用
+                   DESC
   s.homepage = "https://github.com/samchojine/testTool.git"
   s.license = { :type => "MIT" }
   s.author = { "Hyun" => "1275669107@qq.com" }
