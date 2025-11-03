@@ -7,6 +7,8 @@
 
 import UIKit
 
+import MptestTool
+
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
